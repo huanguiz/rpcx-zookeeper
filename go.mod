@@ -1,4 +1,4 @@
-module github.com/rpcxio/rpcx-zookeeper
+module github.com/huanguiz/rpcx-zookeeper
 
 go 1.18
 
